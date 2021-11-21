@@ -18,7 +18,7 @@ export default function Container() {
             <div className="areaText">
                 <h3>Galeria</h3>
                 <h4>As mais belas imagens</h4>
-                <h4>Copyright Ronaldo 2021</h4>
+                <h4>Copyright Geliel 2021</h4>
             </div>
         </div>      
     );
